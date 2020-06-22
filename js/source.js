@@ -9,3 +9,4 @@ function generatePasscode(){
 		console.log(passcode);
 		console.log("Enter your passcode at floridapoly.edu/find-the-phoenix-form.php.");
 	}
+}
