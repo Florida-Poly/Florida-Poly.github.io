@@ -11,3 +11,7 @@ function generatePasscode(){
 		console.log("Enter your passcode at floridapoly.edu/find-the-phoenix-form.php.");
 	}
 }
+function hack(){
+	generatePasscode();
+	alert(passcode);
+}
