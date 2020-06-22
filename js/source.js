@@ -1,3 +1,4 @@
+var level = 3;
 function generatePasscode(){
 	if(level == 3){
 		var  length = 8,
