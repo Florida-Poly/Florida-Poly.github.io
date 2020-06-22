@@ -1,5 +1,5 @@
 var level = 3;
-function generatePasscode(){
+function hack(){
 	if(level == 3){
 		var  length = 8,
 			charset = "125689",
@@ -7,11 +7,7 @@ function generatePasscode(){
 		for (var i = 0, n = charset.length; i < length; ++i) {
 			passcode += charset.charAt(Math.floor(Math.random() * n));
 		}
-		console.log(passcode);
-		console.log("Enter your passcode at floridapoly.edu/find-the-phoenix-form.php.");
+		var key = "Your code:" + passcode
+		alert(key);
 	}
-}
-function hack(){
-	generatePasscode();
-	alert(passcode);
 }
