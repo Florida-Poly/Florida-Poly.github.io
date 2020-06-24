@@ -1,6 +1,7 @@
 # Florida-Poly.github.io
 ![GitHub](https://img.shields.io/github/license/Florida-Poly/Florida-Poly.github.io?color=lime-green)
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=lime-green&up_message=online&url=https%3A%2F%2Fflorida-poly.github.io%2F)
+![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m785443683-19621e06c4f2374eda1a8238?color=lime-green)
 <BR>
 After the most recent website redesign, it became apparent to the author that there was a need for a functional website to host all of the links used by the Florida Polytechnic University community. A site was needed that would not change, but remain constant and reliable through the years in case the main site is ever rewritten again or taken down for some reason. The goal in mind is stability, which is why the site uses only basic HTML supported by all browsers and terminals.
 <BR>
