@@ -4,7 +4,10 @@ body {
 }
 
 li {
-   color: #644ED8;
+   font-family: "Nunito Sans", sans-serif;
+   color: #5D3696;
+   font-size: 14px;
+   font-weight: 700;
    padding-bottom: 10px;
 }
 .footer {
