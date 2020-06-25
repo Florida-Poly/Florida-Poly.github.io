@@ -25,7 +25,7 @@ li {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: grey;
+   background-color: linear-gradient(243deg, #74D2EB 0%, #644ED8 95%);
    color: ivory;
    text-align: center;
 }
