@@ -8,6 +8,9 @@ After the most recent website redesign, it became apparent to the author that th
 <BR>
 <BR>
 Although this is not an official Florida Polytechnic website (It doesn't have the right color scheme) many of the links are to pages on the official website. There are also many links to websites that are not in the floridapoly.edu domain, but are used in university support. If there are any additional links you would like to see on this site, pull requests are welcome, or you can [submit a request](https://github.com/Florida-Poly/Florida-Poly.github.io/issues).
+
 # Visit this site [here](https://florida-poly.github.io/)
+This project is also hosted on [poly-links.com](http://poly-links.com/)
+<BR>
 ![Poly Links](src/poly-links.png)
 ## Read the [rules for contributing](https://github.com/Florida-Poly/Florida-Poly.github.io/blob/master/contribute/readme.md)
