@@ -11,7 +11,7 @@ Below is a list of requirements for any pull request to this repository. These r
 
 
 # Main Focus
-The main focus of this project it to make commonly used links easily accessible to the Florida Polytechnic Community. This website should meet or exceed the performance of the [floridapoly.edu](https://floridapoly.edu/) website concerning:
+The main focus of this project is to make commonly used links easily accessible to the Florida Polytechnic Community. This website should meet or exceed the performance of the [floridapoly.edu](https://floridapoly.edu/) website concerning:
 1. Useability
 2. Loading Speed
 3. Performance
