@@ -13,4 +13,4 @@ Although this is not an official Florida Polytechnic website (It doesn't have th
 This project is also hosted on [poly-links.com](http://poly-links.com/)
 <BR>
 ![Poly Links](src/poly-links.png)
-## Read the [rules for contributing](https://github.com/Florida-Poly/Florida-Poly.github.io/blob/master/contribute/readme.md)
+## Read the [rules for contributing](https://florida-poly.github.io/contribute/)
