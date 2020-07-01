@@ -17,3 +17,6 @@ The main focus of this project is to make commonly used links easily accessible 
 3. Performance
 4. Security
 5. Accessibility
+<BR>
+
+![poly-links.com score](poly-links-score.png)
