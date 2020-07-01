@@ -9,7 +9,7 @@ Below is a list of requirements for any pull request to this repository. These r
 6. All scripts on the page must also be https compliant. Do not import scripts from other websites that do not use https.
 7. No pop-ups, dropdowns, or unwanted spam without user interaction. There should be no spam created by visiting the index.html page.
 
-
+![floridapoly.edu score](floridapoly-edu-score.png)
 # Main Focus
 The main focus of this project is to make commonly used links easily accessible to the Florida Polytechnic Community. This website should meet or exceed the performance of the [floridapoly.edu](https://floridapoly.edu/) website concerning:
 1. Useability
