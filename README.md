@@ -14,3 +14,6 @@ This project is also hosted on [poly-links.com](http://poly-links.com/)
 <BR>
 ![Poly Links](src/poly-links.png)
 ## Read the [rules for contributing](https://florida-poly.github.io/contribute/)
+## ToDo
+  + Optimize SEO to become google searchable
+  + Optimize performance
