@@ -17,4 +17,4 @@ This project is also hosted on [poly-links.com](http://poly-links.com/)
 ## ToDo
   + Optimize SEO to become google searchable
   + Optimize performance
-  + Add [structured data](https://developers.google.com/search/docs/guides/intro-structured-data)
+  + Add [structured data](https://developers.google.com/search/docs/guides/search-gallery)
