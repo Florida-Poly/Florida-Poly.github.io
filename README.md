@@ -12,7 +12,7 @@ Although this is not an official Florida Polytechnic website (It doesn't have th
 # Visit this site [here](https://florida-poly.github.io/)
 This project is also hosted on [poly-links.com](http://poly-links.com/)
 <BR>
-![Poly Links](src/poly-links.png)
+[![Poly Links](src/poly-links.png)](https://florida-poly.github.io/)
 ## Read the [rules for contributing](https://florida-poly.github.io/contribute/)
 ## ToDo
   + Optimize SEO to become google searchable
