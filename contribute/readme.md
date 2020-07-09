@@ -20,3 +20,7 @@ The main focus of this project is to make commonly used links easily accessible 
 <BR>
 
 ![poly-links.com score](poly-links-score.png)
+# Become a Sponsor!
+The annual cost to keep poly-links up and running is $20. If just two people pledge $1 a month, the website can remain accessible for another year! Please consider making a [small donation.](https://github.com/sponsors/Nat-As)
+<BR>
+Thank You!
